@@ -11,6 +11,7 @@ The Showroom Management System is a Python-based application designed to manage 
 🔧 Installation
 Clone the Repository:
 git clone https://github.com/sayababbasi/ShowroomManagementSystem.git
+
 cd ShowroomManagementSystem
 
 Install Dependencies:
