@@ -7,11 +7,17 @@ The Showroom Management System is a Python-based application designed to manage 
 ✨ Features
 
 🏢 Vehicle Inventory Management – Add, update, and remove cars from the system.
+
 📅 Booking System – Customers can book available cars.
+
 📂 File Handling – Stores data in CSV format for easy access and modification.
+
 🛠 Exception Handling & Debugging – Robust error handling for smooth execution.
+
 📝 Logging System – Tracks system activities for debugging and security.
+
 🔧 Installation
+
 Clone the Repository:
 git clone https://github.com/sayababbasi/ShowroomManagementSystem.git
 
