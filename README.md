@@ -1,8 +1,11 @@
 🚗 Showroom Management System
+
 📌 Project Description
+
 The Showroom Management System is a Python-based application designed to manage vehicle bookings, inventory, and customer records efficiently. It uses file handling (CSV), database operations, and logging to ensure smooth and error-free operations.
 
 ✨ Features
+
 🏢 Vehicle Inventory Management – Add, update, and remove cars from the system.
 📅 Booking System – Customers can book available cars.
 📂 File Handling – Stores data in CSV format for easy access and modification.
